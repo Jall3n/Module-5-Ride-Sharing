@@ -43,14 +43,18 @@ Clean and formatted table:
 
 When looking at the city types the first thing that stands out is the difference in number of rides and drivers when comparing them. It makes sense that rural areas will have less drivers than the urban areas. However, even though there are less drivers in rural areas their average fare per ride and average fare per driver is higher than the suburban and urban areas. This is most likely because they are traveling longer distances on their routes and you could consider the higher rates are impacted by supply and demand.
 
-Overall, even though the average fares are higher for the rural area, the urban area still has the greater number of rides and drivers along with a higher total fare amount with $39,854.38 
+Overall, even though the urban area has the greater number of rides and drivers along with a higher total fare amount with $39,854.38 the drivers are not earning as much as their sububran and rural counterparts.
 
-## Summary/Recommendations
-1.
-2.
-3.
+![image](https://github.com/Jall3n/Module-5-Ride-Sharing/assets/119149740/e7ff0532-4b90-479a-b3cd-b7b69b809198)
+
+
+## Summary/Business Recommendations
+1. In order to help out the urban drivers we implement surge rates based on demand in the area. This can increase the amount of drivers in the area and allow them to earn some more money.
+2. Add some incentives for rural drivers such as gas cards and car maintenance checks since they are driving longer distances
+3. Improve the marketing strategy in months that have lower learnings and increase job advertising for rural areas
 
 ## References
 1. Save Figure solution https://stackoverflow.com/questions/30765455/why-is-my-plt-savefig-is-not-working
 2. https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.sum.html
 3. Numeric_Only https://stackoverflow.com/questions/72223610/dropping-invalid-columns-futurewarning
+4. Surge Rates https://www.uber.com/us/en/drive/driver-app/how-surge-works/#:~:text=Prices%20go%20up,to%20be%20a%20reliable%20choice.
