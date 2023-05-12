@@ -39,6 +39,7 @@ Clean and formatted table:
 
 ![Screenshot 2023-05-12 at 5 03 27 PM](https://github.com/Jall3n/Module-5-Ride-Sharing/assets/119149740/3b41242e-b0ac-472d-8ff2-fa794808f2bb)
 
+When looking at the city types the first thing that stands out is the difference in number of rides and drivers when comparing them. It makes sense that rural areas will have less drivers than the urban areas. However, even though there are less drivers in rural areas their average fare per ride and average fare per driver is higher than the suburban and urban areas. This is most likely because they are traveling longer distances on their routes and you could consider the higher rates are impacted by supply and demand. 
 
 ### Differences in Ride-Sharing Data among Different City Types
 
