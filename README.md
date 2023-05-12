@@ -50,8 +50,8 @@ Overall, even though the urban area has the greater number of rides and drivers 
 
 ## Summary/Business Recommendations
 1. In order to help out the urban drivers we implement surge rates based on demand in the area. This can increase the amount of drivers in the area and allow them to earn some more money.
-2. Add some incentives for rural drivers such as gas cards and car maintenance checks since they are driving longer distances
-3. Improve the marketing strategy in months that have lower learnings and increase job advertising for rural areas
+2. Add some incentives for rural drivers such as gas cards and car maintenance checks since they are driving longer distances. However, would need to see more data on average mileage between the city types. 
+3. Improve the marketing strategy in months that have lower earnings and increase job advertising for rural areas
 
 ## References
 1. Save Figure solution https://stackoverflow.com/questions/30765455/why-is-my-plt-savefig-is-not-working
